@@ -1,0 +1,5 @@
+web: python forward.github.py
+git add Procfile
+git commit -m "Added Procfile for Koyeb deployment"
+git push origin main
+
